@@ -18,6 +18,8 @@ thirdparty/
 wandb
 data
 data/
+runs
+runs/
 *.pkl
 *.pkl.json
 *.log.json
@@ -36,3 +38,10 @@ launch.py
 *.sqlite
 
 .pytest*
+
+# images
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.giff
